@@ -1,0 +1,52 @@
+.b1{
+    border: 5px rgb(0, 255, 55) solid;
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    width: 500px;
+    height: 500px;
+
+}
+
+.b2{
+    border: 5px rgb(255, 255, 255) solid;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 3px;
+    margin-right: 3px;
+    width: 450px;
+    height: 450px;
+}
+
+.b3{
+    border: 5px yellow solid;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 3px;
+    margin-right: 3px;
+    width: 400px;
+    height: 400px;
+}
+
+h1{
+    color: aqua;
+    size: 10px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.b4{
+    border: 5px rgb(245, 6, 6) solid;
+    margin-top: 50px;
+    margin-left: 700px;
+    width: 500px;
+    height: 300px;
+}
+
+h2{
+    color: aqua;
+    size: 20px;
+    text-align: center;
+    margin-top: 130px;
+}
